@@ -2,9 +2,18 @@ import media
 from fresh_tomatoes import open_movies_page
 
 # Create movie objects here.
-# Note: Storylines are taken from each film's respective wikipedia articles.
-#       www.wikipedia.org
+# Notes: Storylines are taken from each film's respective google search pages.
+#       "Ghost World": https://g.co/kgs/k49FJa
+#       "Mean Girls": https://g.co/kgs/R9djXI
+#       "Times Square": https://g.co/kgs/BsFFhQ
+#       "Truck Turner": https://g.co/kgs/iqDF3g
+#       "The Slams": https://g.co/kgs/dd0GXs
+#       "Straight Outta Compton": https://g.co/kgs/6ZM8GY
 #       Actor's names removed for brevity.
+#
+#       Lines containg movie posters and trailers may exceed PEP8 standards.
+#           These lines could not be shortened.
+#
 ghost_world = media.Movie(
     "Ghost World",
     """The story of neo-cool Enid and Rebecca who, faced with graduation
