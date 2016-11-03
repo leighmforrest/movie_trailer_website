@@ -3,6 +3,7 @@
 by [Leigh Michael Forrest](http://www.leighmichaelforrest.com)
 
 **Downloading the Program**
+
 To download the program code, clone or download a .zip file at the following url: `https://github.com/leighmforrest/movie_trailer_website.git`
 
 **How to Run the Program**
